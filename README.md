@@ -5,34 +5,8 @@
                                                             kollikoteswararao2003@gmail.com
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                                    ** Abstract**
 This project, titled "A CRM Application for Wholesale Rice Mill," aims to develop a comprehensive Customer Relationship Management (CRM) system using Salesforce to streamline and enhance the operations of a wholesale rice mill. The application will integrate various Salesforce features to manage customer interactions, sales processes, and supply chain logistics efficiently. Key functionalities will include customer data management, order processing, inventory tracking, and automated communication workflows. The project will leverage Salesforce's customizable dashboards and reporting tools to provide actionable insights, enabling the rice mill to make data-driven decisions, improve customer satisfaction, and optimize overall business performance. This CRM solution will address the unique challenges of the wholesale rice industry, ensuring scalability, ease of use, and enhanced operational efficiency.
-
- 
-
-
-
-
-
-
-
-
 
 
                                                       INDEX PAGE
@@ -76,12 +50,7 @@ Rice Details Tab
 The Rice Details tab maintains detailed records of the various types of rice available for wholesale, including quality grades, pricing, stock levels, and supplier information. This tab is integral to inventory management, allowing users to monitor stock levels, manage pricing strategies, and ensure the quality of rice products. By keeping detailed rice information accessible, the tab aids in making informed decisions about procurement, sales, and inventory control.
 Supplier Tab
 The Supplier tab stores vital information about suppliers, such as contact details, materials supplied, and delivery schedules. This tab helps streamline procurement processes by providing a centralized repository of supplier data. Users can manage supplier relationships more effectively, ensure timely delivery of raw materials, and maintain accurate records of supplier interactions. This tab supports efficient supply chain management and helps mitigate risks associated with supply disruptions.
- 
- 
- 
- 
- 
-         
+     
 
                                                                     The Lightning App
 The "MY RICE" Lightning app is designed to optimize the management of wholesale rice mill operations by providing a streamlined and customized interface. This app integrates essential functionalities and data to enhance user productivity and efficiency.
